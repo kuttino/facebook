@@ -9,3 +9,6 @@ una repository è formata da uno o più branch
 un branch è una linea di sviluppo (del progetto) nel tempo
 
 un commit è una istantanea del progetto
+
+
+git remote permette di stabilire la locazione della repository remota corrispondente alla repository locale
